@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0134/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 律戒本疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T85/T85n2788.xml
+    old_id: T85n2788
+hash: sha256:91eab1d2b4c3ebbbdc6451c0e87c9bbfd928f242306542649eac83c97682dc4f
